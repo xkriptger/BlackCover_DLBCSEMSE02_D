@@ -36,7 +36,7 @@ gradle/ (Gradle Wrapper)
 build.gradle.kts
 settings.gradle.kts
 
-Projekt wurde im Rahmen des Moduls DLBSEPPSD01_D erstellt.
+Projekt wurde im Rahmen des Moduls DLBCSEMSE02_D erstellt.
 - Vorgelegt von Soheil Bashardoust
 - Modul: Projekt: Mobile Software Engineering II (DLBCSEMSE02_D)
 - Turor: Herr Prof. Dr. rer. nat. Marian Benner-Wickner
