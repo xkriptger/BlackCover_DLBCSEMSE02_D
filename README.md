@@ -38,8 +38,8 @@ settings.gradle.kts
 
 Projekt wurde im Rahmen des Moduls DLBSEPPSD01_D erstellt.
 - Vorgelegt von Soheil Bashardoust
-- Modul: Projekt: Software Development (DLBSEPPSD01_D)
-- Turor: Prof. Dr. Christian Remfert
+- Modul: Projekt: Mobile Software Engineering II (DLBCSEMSE02_D)
+- Turor: Herr Prof. Dr. rer. nat. Marian Benner-Wickner
 - Studiengang: B.Sc. Softwareentwicklung
 - Matrikelnummer: 4231542
 
